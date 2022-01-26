@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Enebeli</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<a href="https://www.twitter.com/timonwa_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pelumi-akintokun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%23E4405F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+
+My name is Pelumi Eyi-Timonwa Akintokun and I'm from Lagos, Nigeria.
+My name is Emmanuel Enebeli(koko_codes) and I'm from warri, Nigeria.
+I'm a self-taught frontend developer currently mastering the skills one step at a time.
+My HTML, CSS and Javascript skills are something good to write home about. 
+My fault is Responsive Design, I just love to see a page I create have awesome responsiveness on both larger and smaller screens.
+ And right now, I'm working hard to level up my Reactjs skills.
+ And right now, I'm working hard to level up my js skills.
+
+
+
+**Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now *the journey is never ending*.
+
+<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timonwa&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
+
+Enjoy a random tech quote 🤓
 
 - 🔭 I’m currently working on **spotify clone**
 
