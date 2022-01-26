@@ -6,8 +6,7 @@ My name is Emmanuel Enebeli(koko_codes) and I'm from warri, Nigeria.
 I'm a self-taught frontend developer currently mastering the skills one step at a time.
 My HTML, CSS and Javascript skills are something good to write home about. 
 My fault is Responsive Design, I just love to see a page I create have awesome responsiveness on both larger and smaller screens.
- And right now, I'm working hard to level up my Reactjs skills.
- And right now, I'm working hard to level up my js skills.
+And right now, I'm working hard to level up my js skills.
 
 
 
