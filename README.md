@@ -1,7 +1,7 @@
-<a href="https://www.twitter.com/timonwa_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pelumi-akintokun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%23E4405F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://twitter.com/kokocodes_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/emmanuel-enebeli-07893b1a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%23E4405F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
-My name is Pelumi Eyi-Timonwa Akintokun and I'm from Lagos, Nigeria.
+
 My name is Emmanuel Enebeli(koko_codes) and I'm from warri, Nigeria.
 I'm a self-taught frontend developer currently mastering the skills one step at a time.
 My HTML, CSS and Javascript skills are something good to write home about. 
