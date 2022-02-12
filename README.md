@@ -20,7 +20,7 @@ Enjoy a random tech quote 🤓
 
 - 🌱 I’m currently learning **tailwind css and js**
 
-- 👨‍💻 All of my projects are available at [https://enebeliemmanuel.github.io/hosted-website/about.html](https://enebeliemmanuel.github.io/hosted-website/about.html)
+- 👨‍💻 All of my projects are available at [https://enebeliemmanuel.github.io/hosted-website/about.html](https://rebranded-portfolio.vercel.app/)
 
 - 💬 Ask me about **html,css,sass/scss and js**
 
