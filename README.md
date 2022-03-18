@@ -29,7 +29,7 @@ Random Fact: I love to surf the web for random and new things to learn, no knowl
 </p>
 
 Support me 
-- <a href="https://paystack.com/pay/chryz_codez">:heart: Sponsor me</a>
+- <a href="https://paystack.com/pay/EnebeliEmmanuel">:heart: Sponsor me</a>
 
 
 ## Languages and Tools:
@@ -43,6 +43,13 @@ Support me
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
+
+  ### <p align="center"> My Trophies🏆</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EnebeliEmmanuel" alt="EnebeliEmmanuel" /></a> </p>
+  
+  ### <p align="center">My Contribution Streak🔥</p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnebeliEmmanuel&" alt="EnebeliEmmanuel" /></p>
+  
 
 <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnebeliEmmanuel&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
 
