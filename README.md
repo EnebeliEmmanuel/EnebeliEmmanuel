@@ -7,7 +7,7 @@ Hi, I'm Emmanuel Enebeli and I'm from warri, Nigeria. I'm a self-taught frontend
 
 My fault is Responsive Design, I just love to see a page I create have awesome responsiveness on both larger and smaller screens.
 
-I also write notes on my blog, Koko's Notes on web development that help beginners have an easier learning journey.
+I also write notes on my blog,  [Koko's Notes](https://blog.koko-code.tech) on web development that help beginners have an easier learning journey.
 
 I am passionate about making the web accessible to everyone because I believe that everyone irrespective of their disability deserves the right to a good user experience on the web.
 
