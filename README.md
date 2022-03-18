@@ -43,7 +43,7 @@ Support me
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg" alt="github" width="40" height="40"/>
  </p>     
 
 <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnebeliEmmanuel&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
