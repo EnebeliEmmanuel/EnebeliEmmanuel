@@ -1,6 +1,6 @@
-Hi there, I'm Emmanuel
+#Hi there, I'm Emmanuel
 
-Glad to see you here!
+###Glad to see you here!
 
 Hi, I'm Emmanuel Enebeli and I'm from warri, Nigeria. I'm a self-taught frontend developer currently mastering the skills one step at a time. My Frontend skills are something good to write home about.
 
