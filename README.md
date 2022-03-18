@@ -42,7 +42,7 @@ Support me
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github-scm/github-scm-icon.svg" alt="github" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-icon.svg" alt="github" width="40" height="40"/>
   
  </p>     
 
