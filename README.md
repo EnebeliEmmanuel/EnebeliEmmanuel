@@ -15,6 +15,19 @@ My current technical skills include HTML, CSS, Javascript, Sass,  Bootstrap, Tai
 
 Random Fact: I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now the journey is never ending.
 
+<p align="center">
+  
+  <a href="https://github.com/EnebeliEmmanuel?tab=followers">
+    <img src="https://img.shields.io/github/followers/chryz-code?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://twitter.com/kokocodes">
+    <img src="https://img.shields.io/twitter/follow/chryz_code?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/discord/808727269400772638?color=green&logo=Discord&style=for-the-badge" />
+  </a>
+</p>
+
 <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnebeliEmmanuel&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
 
 ![EnebeliEmmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnebeliEmmanuel&show_icons=true&theme=radical)
