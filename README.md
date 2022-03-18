@@ -61,9 +61,9 @@ Support me
 
 
 
-Enjoy a random tech quote 🤓
+<p align= "center">Enjoy a random tech quote 🤓</p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align= "center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)</div>
 
 And enjoy a random funny programming joke 😁
 
