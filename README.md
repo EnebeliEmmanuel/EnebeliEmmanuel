@@ -46,10 +46,12 @@ Support me
 ## Languages and Tools:
 
 <p>
-    <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-npm"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-         /> 
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;">
+
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  </p>     
 
 <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnebeliEmmanuel&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
