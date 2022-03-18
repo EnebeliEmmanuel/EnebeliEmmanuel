@@ -2,15 +2,17 @@ Hi there, I'm Emmanuel
 
 Glad to see you here!
 
-My name is Emmanuel Enebeli(koko_codes) and I'm from warri, Nigeria.
-I'm a self-taught frontend developer currently mastering the skills one step at a time.
-My HTML, CSS and Javascript skills are something good to write home about. 
+Hi, I'm Emmanuel Enebeli and I'm from warri, Nigeria. I'm a self-taught frontend developer currently mastering the skills one step at a time. My Frontend skills are something good to write home about.
+
 My fault is Responsive Design, I just love to see a page I create have awesome responsiveness on both larger and smaller screens.
-And right now, I'm working hard to level up my js skills.
 
+I also write notes on my blog, Koko's Notes on web development that help beginners have an easier learning journey.
 
+I am passionate about making the web accessible to everyone because I believe that everyone irrespective of their disability deserves the right to a good user experience on the web.
 
-**Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now *the journey is never ending*.
+My current technical skills include HTML, CSS, Javascript, Sass,  Bootstrap, Tailwind, NPM, Git, GitHub, VsCode. And I'm currently learning Typescript and slowing transitioning into the web3 space
+
+Random Fact: I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now the journey is never ending.
 
 
 
