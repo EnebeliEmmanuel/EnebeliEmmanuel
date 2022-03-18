@@ -17,7 +17,7 @@ Random Fact: I love to surf the web for random and new things to learn, no knowl
 
 <p align="center">
   
-  <a href="https://github.com/EnebeliEmmanuel?tab=currentfollowers">
+  <a href="https://github.com/EnebeliEmmanuel?tab=followers">
     <img src="https://img.shields.io/github/followers/chryz-code?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/kokocodes">
