@@ -44,73 +44,13 @@ Support me
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&display=swap" rel="stylesheet">
 
 ## Languages and Tools:
-<div class="stacks-animation"  style="display: grid;">
-        
 
-    <span id="a-stack-break"   class="material-icons">
-          <a href="/#" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-html5"  style="color: gray; font-size: 4em; margin-top: 0.5em; position: relative;left: 1rem;"></i
-      ></a>
-      </span>
-
-
-    <span id="a-stack-break"   class="material-icons">
-         <a href="/#" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-css3"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-</span>
-
-
-
-    <span id="a-stack-break"   class="material-icons">
-        <a href="/#" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-js"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-</span>
-
-
-    <span id="a-stack-break"   class="material-icons">
-       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-bootstrap"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-</span>
-
-
-    <span id="a-stack-break"   class="material-icons">
-      <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-sass"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-</span>
-
-
-    <span id="a-stack-break"   class="material-icons">
-        <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-git"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-</span>
-
-
-    <span id="a-stack-break"  class="material-icons">
-          <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-github-square"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-</span>
-
-
-    <span id="a-stack-break"   class="material-icons">
-         <a href="/#" target="_blank" rel="noopener noreferrer"
-        ><i class="fab fa-python"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
-      ></a>
-</span>
-
-
-    <span id="a-stack-break"   class="material-icons">
-          <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer"
+<p>
+    <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer"
         ><i class="fab fa-npm"  style="color: gray; font-size: 4em; margin-top: 0.5em; margin-left:  0.5em;"></i
       ></a>
-    </span>
-    
-      </div>
+         /> 
+ </p>     
 
 <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnebeliEmmanuel&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
  ### <p align="center"> My Trophies🏆</p>
