@@ -34,7 +34,9 @@ Support me
 
 ## Languages and Tools:
 <p> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+   <a href="/#" target="_blank" rel="noopener noreferrer"
+        ><i class="fab fa-html5"  style="color: gray; font-size: 4em; margin-top: 0.5em; position: relative;left: 1rem;"></i
+      ></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
