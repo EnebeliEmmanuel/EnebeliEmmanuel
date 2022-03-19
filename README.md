@@ -68,10 +68,10 @@ Support me
  ### <p align="center"> My Trophies🏆</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EnebeliEmmanuel" alt="EnebeliEmmanuel" /></a> </p>
   
-  ### <p align="center">My Contribution Streak🔥</p>
+  <p align="center">My Contribution Streak🔥</p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnebeliEmmanuel&" alt="EnebeliEmmanuel" /></p>
   
-   ### <p align="center">My GitHub Stats🚀</p>
+    <p align="center">My GitHub Stats🚀</p>
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EnebeliEmmanuel&show_icons=true&locale=en" alt="EnebeliEmmanuel" /></p>
   
   
