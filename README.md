@@ -62,8 +62,8 @@ Support me
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" style="vertical-align:top; margin:4px"/>
 </p>
  
+ <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnebeliEmmanuel&layout=compact&langs_count=7&theme=dark"/>
 
-<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnebeliEmmanuel&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
  ### <p align="center"> My Trophies🏆</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EnebeliEmmanuel" alt="EnebeliEmmanuel" /></a> </p>
   
