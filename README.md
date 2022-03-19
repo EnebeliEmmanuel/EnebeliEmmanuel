@@ -3,6 +3,7 @@
 ### Glad to see you here!
 
 <h1 align = center> Emmanuel Enebeli</h1>
+<img width="338" alt="code" src="https://user-images.githubusercontent.com/58889001/159116325-bba5e366-6020-46cb-8321-6de7c1edacb7.png">
 
 
  <h1 align="center">
