@@ -1,9 +1,9 @@
 <h1 align="center">
-# Hi there, I'm Emmanuel 👋
+Hi there, I'm Emmanuel 👋
 </h1>
 
 <h2 align="center">
-### Glad to see you here!
+Glad to see you here!
 </h2>
 <p align=center><img width="338" alt="code" src="https://user-images.githubusercontent.com/58889001/159116325-bba5e366-6020-46cb-8321-6de7c1edacb7.png"></p>
 
