@@ -18,11 +18,11 @@ Hi, I'm Emmanuel Enebeli and I'm from warri, Nigeria. I'm a self-taught frontend
 
 My fault is Responsive Design, I just love to see a page I create have awesome responsiveness on both larger and smaller screens.
 
-I also write notes on my blog,  [Koko's Notes](https://blog.koko-code.tech) on web development that help beginners have an easier learning journey.
+I am also a blog writter. dont have much articles for now but you can check it out,  [Koko's Diary](https://blog.koko-code.tech) 
 
-I am passionate about making the web accessible to everyone because I believe that everyone irrespective of their disability deserves the right to a good user experience on the web.
+I am passionate about making the web accessible and user friendly to everyone because I believe that everyone irrespective of their disability  deserves the right to a good user experience on the web.
 
-My current technical skills include HTML, CSS, Javascript, Sass,  Bootstrap, Tailwind, NPM, Git, GitHub, VsCode. And I'm currently learning Typescript and slowing transitioning into the web3 space
+
 
 Random Fact: I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now the journey is never ending.
 
@@ -71,7 +71,7 @@ Support me
   <p align="center">My Contribution Streak🔥</p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnebeliEmmanuel&" alt="EnebeliEmmanuel" /></p>
   
-    <p align="center">My GitHub Stats🚀</p>
+   ### My GitHub Stats🚀
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EnebeliEmmanuel&show_icons=true&locale=en" alt="EnebeliEmmanuel" /></p>
   
   
@@ -81,9 +81,13 @@ Support me
 
 
 
-## Enjoy a random tech quote 🤓
+## Enjoy a random  quote 🤓
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+{"quote": "Whatever the mind of man can conceive and believe, it can achieve.", "author": "Napoleon Hill"},
+{"quote": "Strive not to be a success, but rather to be of value.", "author": "Albert Einstein"},
+{"quote": "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.", "author": "Robert Frost"},
+{"quote": "I attribute my success to this: I never gave or took any excuse.", "author": "Florence Nightingale"},
+{"quote": "You miss 100% of the shots you don’t take.", "author": "Wayne Gretzky"},
 
 And enjoy a random funny programming joke 😁
 
